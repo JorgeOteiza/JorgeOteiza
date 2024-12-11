@@ -19,10 +19,10 @@ I’m a **Full Stack Developer** who loves creating web applications that are bo
 ## 📫 How to reach me  
 - GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
 - LinkedIn: [Jorge Cancino Oteíza](https://www.linkedin.com/in/jorge-cancino-oteiza/)  
-- Email: [your-email@example.com]  
+- Email: [oteiza.jor@gmail.com]  
 
 ## 😄 Pronouns:  
-He/Him  
+coque
 
 ## ⚡ Fun fact  
 Before becoming a developer, I spent over 8 years as a physical trainer, helping people reach their fitness goals. Now, I’m focused on helping teams and projects achieve their goals through clean code and creative solutions!  
