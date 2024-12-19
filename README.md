@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jorge Oteíza  
 
-I’m a **Full Stack Developer** who loves creating web applications that are both functional and enjoyable to use. I’m passionate about solving problems, learning new things, and collaborating with others to build great projects.  
+Hi! I'm Jorge, exploring the IT world and focused on transforming real-world problems into modern solutions. I have experience building innovative technological applications, working with user stories, reusable components, REST APIs, and relational databases.  
 
 ## 👀 I’m interested in  
 - Frontend development with **React**  
