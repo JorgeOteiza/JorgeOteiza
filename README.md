@@ -19,7 +19,7 @@ Hi! I'm Jorge, exploring the IT world and focused on transforming real-world pro
 ## 📫 How to reach me  
 - GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
 - LinkedIn: [Jorge Cancino Oteíza](https://www.linkedin.com/in/jorge-cancino-oteiza/)  
-- Email: [oteiza.jor@gmail.com]  
+- Email: oteiza.jor@gmail.com 
 
 ## ⚡ Fun fact  
 Before becoming a developer, I spent over 8 years as a physical trainer, helping people reach their fitness goals. Now, I’m focused on helping teams and projects achieve their goals through clean code and creative solutions!  
