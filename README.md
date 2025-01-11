@@ -19,7 +19,7 @@ Hi! I'm Jorge, exploring the IT world and focused on transforming real-world pro
 ## 📫 How to reach me  
 - GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
 - LinkedIn: [Jorge Cancino Oteíza](https://www.linkedin.com/in/jorge-cancino-oteiza/)
-- Portfolio: [](https://jorgeoteiza.github.io/)
+- Portfolio: [JorgeOteiza](https://jorgeoteiza.github.io/)
 - Email: oteiza.jor@gmail.com
 
 ## ⚡ Fun fact  
