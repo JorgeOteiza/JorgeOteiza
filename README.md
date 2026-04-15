@@ -1,33 +1,61 @@
-# 👋 Hi, I’m Jorge Oteíza  
+# 👋 Hi, I’m Jorge Oteiza
 
-Hi! I'm Jorge, exploring the IT world and focused on transforming real-world problems into modern solutions. I have experience building innovative technological applications, working with user stories, reusable components, REST APIs, and relational databases.  
+Full Stack Developer focused on building web applications using React in the frontend and Flask in the backend.
 
-## 👀 I’m interested in  
-- Frontend development with **React**  
-- Backend development using **Python** and **Flask**  
-- Exploring new tools and technologies that make coding even more exciting  
-
-## 🌱 I’m currently learning  
-- Advanced React concepts and improving my state management skills  
-- API design and making integrations seamless  
-- Anything that helps me grow as a developer!  
-
-## 💞️ I’m looking to collaborate on  
-- Projects that make an impact, no matter how big or small  
-- Web applications where I can contribute with **JavaScript, React, Python**, and more  
-
-## 📫 How to reach me  
-- GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
-- LinkedIn: [Jorge Cancino Oteíza](https://www.linkedin.com/in/jorge-cancino-oteiza/)
-- Portfolio: [JorgeOteiza](https://jorgeoteiza.github.io/)
-- Email: oteiza.jor@gmail.com
-
-## ⚡ Fun fact  
-Before becoming a developer, I spent over 8 years as a physical trainer, helping people reach their fitness goals. Now, I’m focused on helping teams and projects achieve their goals through clean code and creative solutions!  
+I develop full stack solutions implementing REST APIs, JWT-based authentication and relational databases with PostgreSQL.
 
 ---
 
-Thanks for stopping by! Feel free to reach out—I’d love to connect and hear about your ideas. 🚀  
+## 🚀 Current Project
+
+**Minimarket POS System**  
+Point of sale application for managing products, inventory and sales.
+
+- REST API built with Flask  
+- Inventory and sales logic handled in the backend  
+- Frontend built with React + TypeScript  
+- PostgreSQL with SQLAlchemy  
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:**  
+React, JavaScript, TypeScript, HTML, CSS  
+
+**Backend:**  
+Python, Flask, SQLAlchemy  
+
+**Database:**  
+PostgreSQL  
+
+**Tools:**  
+Git, GitHub, Postman, Figma  
+
+---
+
+## 🛠 What I Work With
+
+- REST API development  
+- JWT authentication  
+- Database design and integration  
+- Full stack application architecture  
+
+---
+
+## 📫 Contact
+
+- GitHub: @JorgeOteiza  
+- LinkedIn: linkedin.com/in/jorgecancinooteiza  
+- Portfolio: https://jorgeoteiza.github.io/  
+- Email: oteiza.jor@gmail.com  
+
+---
+
+## ⚡ Background
+
+Before transitioning into software development, I worked for over 8 years as a physical trainer.  
+This experience helped me develop discipline, teamwork and a strong focus on achieving goals.
 
 
 <!---
