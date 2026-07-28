@@ -1,64 +1,54 @@
 # 👋 Hi, I’m Jorge Oteiza
 
-Full Stack Developer focused on building web applications using React in the frontend and Flask in the backend.
+Full Stack Developer focused on building practical web and desktop applications with React, TypeScript, Python and Flask.
 
-I develop full stack solutions implementing REST APIs, JWT-based authentication and relational databases with PostgreSQL.
-
----
+I enjoy creating complete solutions that connect clean user interfaces with solid backend logic, REST APIs, relational databases and real-world business workflows.
 
 ## 🚀 Current Project
 
-**Minimarket POS System**  
-Point of sale application for managing products, inventory and sales.
+### [Minimarket POS System](https://github.com/JorgeOteiza/minimarket-pos)
 
-- REST API built with Flask  
-- Inventory and sales logic handled in the backend  
-- Frontend built with React + TypeScript  
-- PostgreSQL with SQLAlchemy  
+Point of sale system for managing products, inventory, sales, backups and business settings.
 
----
+- REST API built with Flask and SQLAlchemy
+- Inventory, sales and backup logic handled in the backend
+- Frontend built with React + TypeScript
+- Local database with SQLite
+- Packaged as an installable Windows desktop application
+- Automated backend tests with pytest
 
 ## 🧠 Tech Stack
 
 **Frontend:**  
-React, JavaScript, TypeScript, HTML, CSS  
+React, TypeScript, JavaScript, HTML, CSS
 
 **Backend:**  
-Python, Flask, SQLAlchemy  
+Python, Flask, SQLAlchemy, REST APIs
 
 **Database:**  
-PostgreSQL  
+SQLite, PostgreSQL
 
 **Tools:**  
-Git, GitHub, Postman, Figma  
-
----
+Git, GitHub, Postman, Figma, PyInstaller
 
 ## 🛠 What I Work With
 
-- REST API development  
-- JWT authentication  
-- Database design and integration  
-- Full stack application architecture  
-
----
+- REST API development
+- Full stack application architecture
+- Database design and integration
+- Inventory and transaction workflows
+- Desktop packaging for Windows
+- User-focused interface improvements
 
 ## 📫 Contact
 
-- GitHub: @JorgeOteiza  
-- LinkedIn: linkedin.com/in/jorgecancinooteiza  
-- Portfolio: https://jorgeoteiza.github.io/  
-- Email: oteiza.jor@gmail.com  
-
----
+GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
+LinkedIn: [linkedin.com/in/jorgecancinooteiza](https://linkedin.com/in/jorgecancinooteiza)  
+Portfolio: [jorgeoteiza.github.io](https://jorgeoteiza.github.io/)  
+Email: oteiza.jor@gmail.com
 
 ## ⚡ Background
 
-Before transitioning into software development, I worked for over 8 years as a physical trainer.  
-This experience helped me develop discipline, teamwork and a strong focus on achieving goals.
+Before transitioning into software development, I worked for over 8 years as a physical trainer.
 
-
-<!---
-JorgeOteiza/JorgeOteiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+That experience helped me build discipline, consistency, teamwork and a strong focus on solving real problems with practical results.
