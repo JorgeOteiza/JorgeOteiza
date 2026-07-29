@@ -12,24 +12,34 @@ Point of sale system for managing products, inventory, sales, backups and busine
 
 - REST API built with Flask and SQLAlchemy
 - Inventory, sales and backup logic handled in the backend
-- Frontend built with React + TypeScript
+- Frontend built with React and TypeScript
 - Local database with SQLite
 - Packaged as an installable Windows desktop application
 - Automated backend tests with pytest
 
 ## 🧠 Tech Stack
 
-**Frontend:**  
-React, TypeScript, JavaScript, HTML, CSS
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
 
-**Backend:**  
-Python, Flask, SQLAlchemy, REST APIs
+**Backend**
+- Python
+- Flask
+- SQLAlchemy
+- REST APIs
 
-**Database:**  
-SQLite, PostgreSQL
+**Database**
+- SQLite
+- PostgreSQL
 
-**Tools:**  
-Git, GitHub, Postman, Figma, PyInstaller
+**Tools**
+- Git & GitHub
+- Postman
+- Figma
+- PyInstaller
 
 ## 🛠 What I Work With
 
@@ -42,14 +52,12 @@ Git, GitHub, Postman, Figma, PyInstaller
 
 ## 📫 Contact
 
-GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
-LinkedIn: [linkedin.com/in/jorgecancinooteiza](https://linkedin.com/in/jorgecancinooteiza)  
-Get on Board: [https://www.getonbrd.com/p/jorge-cancino-oteiza](https://www.getonbrd.com/p/jorge-cancino-oteiza)
-Portfolio: [jorgeoteiza.github.io](https://jorgeoteiza.github.io/)  
-Email: oteiza.jor@gmail.com
+- GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)
+- LinkedIn: [Jorge Cancino Oteiza](https://linkedin.com/in/jorgecancinooteiza)
+- Get on Board: [Get on Board profile](https://www.getonbrd.com/p/jorge-cancino-oteiza)
+- Portfolio: [https://jorgeoteiza.github.io/](https://jorgeoteiza.github.io/)
+- Email: [oteiza.jor@gmail.com](mailto:oteiza.jor@gmail.com)
 
 ## ⚡ Background
 
-Before transitioning into software development, I worked for over 8 years as a physical trainer.
-
-That experience helped me build discipline, consistency, teamwork and a strong focus on solving real problems with practical results.
+Before transitioning into software development, I worked for over 8 years as a physical trainer. That experience helped me build discipline, consistency, teamwork and a strong focus on solving real problems with practical results.
