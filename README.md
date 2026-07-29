@@ -44,6 +44,7 @@ Git, GitHub, Postman, Figma, PyInstaller
 
 GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)  
 LinkedIn: [linkedin.com/in/jorgecancinooteiza](https://linkedin.com/in/jorgecancinooteiza)  
+Get on Board: [https://www.getonbrd.com/p/jorge-cancino-oteiza](https://www.getonbrd.com/p/jorge-cancino-oteiza)
 Portfolio: [jorgeoteiza.github.io](https://jorgeoteiza.github.io/)  
 Email: oteiza.jor@gmail.com
 
