@@ -6,7 +6,7 @@ I enjoy creating complete solutions that connect clean user interfaces with soli
 
 ## 🚀 Current Project
 
-### [Minimarket POS System](https://github.com/JorgeOteiza/minimarket-pos)
+### [Minimarket Manager](https://github.com/JorgeOteiza/minimarket-pos)
 
 Point of sale system for managing products, inventory, sales, backups and business settings.
 
