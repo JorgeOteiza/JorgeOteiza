@@ -1,23 +1,37 @@
-# 👋 Hi, I’m Jorge Oteiza
+# 👋 Hola, soy Jorge Oteiza
 
-Full Stack Developer focused on building practical web and desktop applications with React, TypeScript, Python and Flask.
+Desarrollador Full Stack enfocado en construir aplicaciones web y de escritorio prácticas usando React, TypeScript y Python (Flask).
 
-I enjoy creating complete solutions that connect clean user interfaces with solid backend logic, REST APIs, relational databases and real-world business workflows.
+Me gusta crear soluciones completas que conecten interfaces limpias con lógica de backend sólida, APIs REST, bases de datos relacionales y flujos de trabajo orientados a negocios reales.
 
-## 🚀 Current Project
+## ⚡ TL;DR (español)
+
+- Tecnologías principales: React, TypeScript, Python, Flask, SQLAlchemy
+- Proyectos destacados: Minimarket Manager (Punto de venta)
+- Contacto: oteiza.jor@gmail.com
+
+---
+
+## 🇬🇧 English (short)
+
+Hi — I’m Jorge Oteiza. Full‑stack developer focused on practical web and desktop apps. Main tech: React, TypeScript, Python (Flask). See projects and contact above.
+
+---
+
+## 🚀 Proyecto actual
 
 ### [Minimarket Manager](https://github.com/JorgeOteiza/minimarket-pos)
 
-Point of sale system for managing products, inventory, sales, backups and business settings.
+Sistema punto de venta para gestionar productos, inventario, ventas, respaldos y configuración del negocio.
 
-- REST API built with Flask and SQLAlchemy
-- Inventory, sales and backup logic handled in the backend
-- Frontend built with React and TypeScript
-- Local database with SQLite
-- Packaged as an installable Windows desktop application
-- Automated backend tests with pytest
+- API REST construida con Flask y SQLAlchemy
+- Lógica de inventario, ventas y respaldos en el backend
+- Frontend con React y TypeScript
+- Base de datos local con SQLite (soporte para PostgreSQL en otros entornos)
+- Empaquetado como aplicación de escritorio instalable en Windows
+- Tests automatizados de backend con pytest
 
-## 🧠 Tech Stack
+## 🧠 Tecnologías
 
 **Frontend**
 - React
@@ -29,28 +43,28 @@ Point of sale system for managing products, inventory, sales, backups and busine
 - Python
 - Flask
 - SQLAlchemy
-- REST APIs
+- APIs REST
 
-**Database**
+**Base de datos**
 - SQLite
 - PostgreSQL
 
-**Tools**
+**Herramientas**
 - Git & GitHub
 - Postman
 - Figma
 - PyInstaller
 
-## 🛠 What I Work With
+## 🛠 En qué trabajo
 
-- REST API development
-- Full stack application architecture
-- Database design and integration
-- Inventory and transaction workflows
-- Desktop packaging for Windows
-- User-focused interface improvements
+- Desarrollo de APIs REST
+- Arquitectura de aplicaciones full‑stack
+- Diseño e integración de bases de datos
+- Flujos de trabajo de inventario y transacciones
+- Empaquetado de aplicaciones para Windows
+- Mejoras centradas en la experiencia de usuario
 
-## 📫 Contact
+## 📫 Contacto
 
 - GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)
 - LinkedIn: [Jorge Cancino Oteiza](https://linkedin.com/in/jorgecancinooteiza)
@@ -58,6 +72,7 @@ Point of sale system for managing products, inventory, sales, backups and busine
 - Portfolio: [https://jorgeoteiza.github.io/](https://jorgeoteiza.github.io/)
 - Email: [oteiza.jor@gmail.com](mailto:oteiza.jor@gmail.com)
 
-## ⚡ Background
+## ⚙️ Antecedentes
 
-Before transitioning into software development, I worked for over 8 years as a physical trainer. That experience helped me build discipline, consistency, teamwork and a strong focus on solving real problems with practical results.
+Antes de dedicarme al desarrollo de software trabajé más de 8 años como entrenador físico. Esa experiencia me ayudó a desarrollar disciplina, constancia, trabajo en equipo y una fuerte orientación a resolver problemas reales con pragmatismo.
+
