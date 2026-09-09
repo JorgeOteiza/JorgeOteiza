@@ -1,78 +1,69 @@
-# 👋 Hola, soy Jorge Oteiza
+# Hola, soy Jorge Oteiza
 
-Desarrollador Full Stack enfocado en construir aplicaciones web y de escritorio prácticas usando React, TypeScript y Python (Flask).
+Soy desarrollador full stack y construyo aplicaciones que conectan interfaces, APIs, reglas de negocio y bases de datos.
 
-Me gusta crear soluciones completas que conecten interfaces limpias con lógica de backend sólida, APIs REST, bases de datos relacionales y flujos de trabajo orientados a negocios reales.
+Trabajo principalmente con React, TypeScript, Python, Flask y FastAPI. Me interesa entender las necesidades de quienes usan una aplicación y desarrollar soluciones que puedan mantenerse y evolucionar.
 
-## ⚡ TL;DR (español)
+Desde noviembre de 2024 desarrollo proyectos personales. Actualmente también trabajo en Minimarket Manager, una aplicación para la operación de un minimarket real.
 
-- Tecnologías principales: React, TypeScript, Python, Flask, SQLAlchemy
-- Proyectos destacados: Minimarket Manager (Punto de venta)
-- Contacto: oteiza.jor@gmail.com
-
----
-
-## 🇬🇧 English (short)
-
-Hi — I’m Jorge Oteiza. Full‑stack developer focused on practical web and desktop apps. Main tech: React, TypeScript, Python (Flask). See projects and contact above.
-
----
-
-## 🚀 Proyecto actual
+## Proyecto principal
 
 ### [Minimarket Manager](https://github.com/JorgeOteiza/minimarket-pos)
 
-Sistema punto de venta para gestionar productos, inventario, ventas, respaldos y configuración del negocio.
+Sistema de gestión comercial que combina operación local y administración remota.
 
-- API REST construida con Flask y SQLAlchemy
-- Lógica de inventario, ventas y respaldos en el backend
-- Frontend con React y TypeScript
-- Base de datos local con SQLite (soporte para PostgreSQL en otros entornos)
-- Empaquetado como aplicación de escritorio instalable en Windows
-- Tests automatizados de backend con pytest
+- POS en el PC principal para registrar ventas y descontar stock, incluso sin internet.
+- Administración de productos, precios, inventario, sacos y paquetes.
+- Reportes, estadísticas, historial de movimientos y respaldos.
+- Backend local con Flask, SQLAlchemy y SQLite.
+- Frontend con React, TypeScript y Vite.
+- Sincronización cuando hay conexión a internet.
+- Supabase para almacenamiento remoto y autenticación de administradoras.
+- Vista web de administración desplegada en Render, con acceso para cuentas autorizadas.
+- Interfaz adaptada a celulares y tablets, con estados de carga y mensajes de sincronización.
+- Distribución como aplicación instalable para Windows.
 
-## 🧠 Tecnologías
+El PC principal incluye POS y administración. La vista remota ofrece solo administración y requiere conexión.
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript
-- HTML & CSS
+## Otros proyectos
 
-**Backend**
-- Python
-- Flask
-- SQLAlchemy
-- APIs REST
+- [AuthFlow](https://github.com/JorgeOteiza/authflow-react-flask): gestión de cuentas y sesiones con JWT en cookies HttpOnly, protección CSRF, PostgreSQL, Redis y pruebas automatizadas.
+- [Travel Calculator](https://github.com/JorgeOteiza/travel.calculator): estimación de consumo y costo de combustible según el vehículo y las condiciones de la ruta.
+- [Short URL](https://github.com/JorgeOteiza/Short-url): aplicación para acortar enlaces, generar códigos QR y consultar visitas, con FastAPI y React.
+- [El Rincón del Vino](https://github.com/JorgeOteiza/final-project-FT22-g2_sitio.Web_E-Comerce): e-commerce desarrollado en equipo y posteriormente mantenido y mejorado de forma individual.
+- [Archivo Galáctico de Star Wars](https://github.com/JorgeOteiza/project_Blog_de_StarWars): exploración de personajes, vehículos y planetas mediante SWAPI, con favoritos persistentes.
 
-**Base de datos**
-- SQLite
-- PostgreSQL
+## Tecnologías y herramientas
 
-**Herramientas**
-- Git & GitHub
-- Postman
-- Figma
-- PyInstaller
+- **Frontend:** React, TypeScript, JavaScript, React Router, Vite, HTML y CSS.
+- **Backend y APIs:** Python, Flask, FastAPI, SQLAlchemy, APIs REST y JWT.
+- **Datos e infraestructura:** PostgreSQL, SQLite, Supabase, Redis, Docker, Neon y Render.
+- **Pruebas y colaboración:** pytest, Vitest, Playwright, Git, GitHub Actions, Postman y Figma.
+- **Distribución:** PyInstaller.
 
-## 🛠 En qué trabajo
+## Cómo trabajo con IA
 
-- Desarrollo de APIs REST
-- Arquitectura de aplicaciones full‑stack
-- Diseño e integración de bases de datos
-- Flujos de trabajo de inventario y transacciones
-- Empaquetado de aplicaciones para Windows
-- Mejoras centradas en la experiencia de usuario
+Utilizo asistentes de IA como apoyo al desarrollo: defino el contexto y los requisitos, reviso el código generado y valido su integración y funcionamiento.
 
-## 📫 Contacto
+Mi proceso incluye comprender las soluciones propuestas, contrastarlas con las necesidades del proyecto y comprobar los recorridos afectados. Continúo formándome en inteligencia artificial generativa y herramientas aplicadas al desarrollo de software.
 
-- GitHub: [@JorgeOteiza](https://github.com/JorgeOteiza)
-- LinkedIn: [Jorge Cancino Oteiza](https://linkedin.com/in/jorgecancinooteiza)
-- Get on Board: [Get on Board profile](https://www.getonbrd.com/p/jorge-cancino-oteiza)
-- Portfolio: [https://jorgeoteiza.github.io/](https://jorgeoteiza.github.io/)
-- Email: [oteiza.jor@gmail.com](mailto:oteiza.jor@gmail.com)
+## Sobre mi trayectoria
 
-## ⚙️ Antecedentes
+Me formé como desarrollador full stack en 4Geeks Academy y complemento mi aprendizaje con proyectos y formación continua.
 
-Antes de dedicarme al desarrollo de software trabajé más de 8 años como entrenador físico. Esa experiencia me ayudó a desarrollar disciplina, constancia, trabajo en equipo y una fuerte orientación a resolver problemas reales con pragmatismo.
+Antes de dedicarme al software trabajé como preparador físico. Esa experiencia fortaleció mi disciplina, comunicación, planificación y capacidad para adaptar soluciones a necesidades individuales.
 
+Busco incorporarme a un equipo donde pueda contribuir al desarrollo de productos completos y seguir creciendo profesionalmente.
+
+## English
+
+I'm a full-stack developer working with React, TypeScript and Python. I build practical applications that connect user interfaces, APIs and databases.
+
+My main project, Minimarket Manager, combines an offline POS with synchronization and remote administration. I use AI assistants to support development by defining context, reviewing generated code and validating its integration and behavior.
+
+## Contacto
+
+- [Portafolio](https://jorgeoteiza.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jorgecancinooteiza/)
+- [Get on Board](https://www.getonbrd.com/p/jorge-cancino-oteiza)
+- Email: oteiza.jor@gmail.com
